@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba59958-5efa-40df-abfe-75fbde623f5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yakubivoleg/WorkingWith2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yakubivoleg/WorkingWithArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yakubivoleg/WorkingWithLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yakubivoleg/WorkingWithMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yakubivoleg/WorkingWithQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yakubivoleg/WorkingWithSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/yakubivoleg/WorkingWithStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.WorkingWithMaps">
     <configuration name="WorkingWithArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yakubivoleg.WorkingWithArrays" />
@@ -141,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651851500235</updated>
       <workItem from="1651851502789" duration="7825000" />
-      <workItem from="1652208207795" duration="6363000" />
+      <workItem from="1652208207795" duration="7550000" />
     </task>
     <servers />
   </component>
